@@ -1,3 +1,6 @@
+⚠️NOTE: work on this project has stopped in favor of advancing [pve-kernel-builder](https://github.com/brunokc/pve-kernel-builder). Please use that project instead. 
+---
+
 # 🍻 Relaxed RMRR Mapping for Linux 5.15+
 ## 🐧💨 Now you can use PCI passthrough on broken platforms
 
